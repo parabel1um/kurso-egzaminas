@@ -1,0 +1,12 @@
+-------------- Rezultatai -------------
+Figûra    |  Koordinatës (x, y)
+---------------------------------------
+Taðkas    |  (-2, -2)
+Atkarpa   |  (1, 2); (-4, 3)
+Trikampis |  (2, 2); (4, 7); (9, 0)
+---------------------------------------
+
+Atkarpø lygiagreèiø y aðiai: 0
+Atkarpø, kertanèiø y aðá, ilgiø suma: 5.09902
+Trumpiausios atkarpos, priklausanèios ketvirtam ketvirèiui, nëra
+Trikampiø perimetrø suma: 21
